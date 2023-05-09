@@ -1,0 +1,14 @@
+{
+  "id": "acode.plugin.loremmd",
+  "name": "Lorem Markdown",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "author": {
+    "name": "Arman Idrisi",
+    "email": "idrisiarman19@gmail.com",
+    "github": "https://github.com/Armanidrisi"
+  }
+}
