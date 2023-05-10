@@ -22,3 +22,8 @@ We welcome contributions to the Markdown Lorem Ipsum Generator plugin! If you wo
 ## Issues 🐛👀
 
 If you encounter any issues with the Acode Markdown Lorem Ipsum Generator package, please report them in the Issues tab of this repository. 
+
+Please Leave A Start [here](https://github.com/Armanidrisi/loremMarkdown)
+
+### &#8627; Stargazers
+[![Stargazers repo roster for @Armanidrisi/loremMarkdown](https://reporoster.com/stars/Armanidrisi/loremMarkdown)](https://github.com/Armanidrisi/loremMarkdown/stargazers)
