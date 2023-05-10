@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Markdown Lorem Ipsum Generator Plugin For Acode Editor",
   "main": "dist/main.js",
-  "repository": "https://github.com/Armanidrisi/acode-plugin-loremMarkdown.git",
+  "repository": "https://github.com/Armanidrisi/loremMarkdown.git",
   "author": "Arman Idrisi <idrisiarman19@gmail.com>",
   "license": "MIT",
   "dependencies": {
